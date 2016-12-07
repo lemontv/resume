@@ -43,6 +43,8 @@ a:link, a:hover, a:active, a:visited {
     left: 50px;
     border-radius: 50%;
     background: #A9CDAE;
+    background-image: url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAaXAAAAJDJiYmNmNGNjLWU3Y2QtNDkzZi1hMWI0LTIzNjlhMDc5ZDc4OQ.jpg);
+    background-position: center;
     position: absolute;
 }
 #photo:after {
