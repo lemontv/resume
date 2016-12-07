@@ -1,0 +1,98 @@
+{
+    "types": [
+        {
+            "title": "EDUCATIOIN",
+            "items": [
+                {
+                    "name": "Guangxi University",
+                    "start": "2007",
+                    "end": "2011",
+                    "detail": "Major: Computer Science and Technology. Bachelor of Science degree in Computer Science, 2011"
+                }
+            ]
+        },
+        {
+            "title": "WORK EXPERIENCE",
+            "items": [
+                {
+                    "name": "BrigthStar Technology Co.,Ltd., Nanning, China",
+                    "start": "2011",
+                    "end": "2014",
+                    "multiple": true,
+                    "detail": [
+                        " Using CodeIgniter & Mysql build a small CMS and use it to build websites.",
+                        "Develop an Android Application about little baby photograph which name MengDouDou. Develop a magazine.",
+                        "Android Application which name 'Realtime Traffic'.",
+                        "Develop an Android Application about Sale man track app base on LBS."
+                    ]
+                },
+                {
+                    "name": "Zeta Biosciences(Shanghai) Co.,Ltd., China",
+                    "start": "2014",
+                    "end": "2015",
+                    "multiple": true,
+                    "detail": [
+                        "Using Drupal develop Company website (http://zetabio.com).",
+                        "Develop SeqOnly(http://seqonly.com), SeqOnly is NGS E-commerce website, Using mysql database, backend I useing php framework Codeingiter, frontend using jQuery and.",
+                        "Develop MicrobeTrakr (http://microbetrakr.com), MicroeTrakr is a web service for whole-genome sequence-based microbial identification. I use mongoldb store genomes, the front-end use the Angularjs and the back-end use the Nodejs.",
+                        "Maintain product system, using Zabbix monitor the service, release product"
+                    ]
+                },
+                {
+                    "name": "Maxent-inc., China",
+                    "start": "2015",
+                    "end": "2016",
+                    "multiple": true,
+                    "detail": [
+                        "Develop Fraudynamics web frontend(http://www.fraudynamics.cn), Fraudynamics is a online anti-fraud system. I use React/Flux/Webpack to build it. It’s a single page application.",
+                        "Using wordpress develop company website (http://www.maxent-inc.com)",
+                        "Develop Fraudynamics Client Javascript SDK.",
+                        "Cooperate with data analysis team improve our product."
+                    ]
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Javascript",
+            "level": 85
+        },
+        {
+            "name": "Perl",
+            "level": 80
+        },
+        {
+            "name": "Python",
+            "level": 50
+        },
+        {
+            "name": "Java",
+            "level": 60
+        },
+        {
+            "name": "R",
+            "level": 40
+        },
+        {
+            "name": "Mongodb",
+            "level": 70
+        },
+        {
+            "name": "Mysql",
+            "level": 60
+        },
+        {
+            "name": "Neo4j",
+            "level": 70
+        },
+        {
+            "name": "Vim",
+            "level": 80
+        },
+        {
+            "name": "Linux",
+            "level": 90
+        }
+    ]
+}
