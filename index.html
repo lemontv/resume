@@ -52,7 +52,7 @@
                                 <div class="item" v-for="item in type.items">
                                     <div class="header">
                                         <div class="date">{{item.start}} - {{item.end}}</div>
-                                        <div class="name">{{item.name}}</div>
+                                        <div class="name"><a href="{{item.url}}" target="_blank">{{item.name}}</a></div>
                                     </div>
                                     <div class="detail">
                                         <div v-if="item.multiple">
@@ -104,6 +104,28 @@
                                         <div class="interest col-xs-2">
                                             <i class="fa fa-plane" aria-hidden="true"></i>
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="project">
+                            <div class="block">
+                                <div class="title"> PROJECT </div>
+                                <div class="list container-full">
+                                    <div class="project row">
+                                        <a href="http://www.fraudynamics.cn/">fraudynamics - online ant-fraud platform</a>
+                                    </div>
+                                    <div class="project row">
+                                        fraudynamics javascript SDK - device fingerprint javascript SDK
+                                    </div>
+                                    <div class="project row">
+                                        <a href="http://www.seqonly.com/">seqonly - sequencing online shop</a>
+                                    </div>
+                                    <div class="project row">
+                                        <a href="http://www.microbetrack.org/">microbetrack - a service for whole-genome sequence-based microbial identification </a>
+                                    </div>
+                                    <div class="project row">
+                                        <a href="http://www.zetabio.com/">zetabio website</a>
                                     </div>
                                 </div>
                             </div>

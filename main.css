@@ -93,3 +93,6 @@ a:link, a:hover, a:active, a:visited {
 .progress-bar {
     background: #C6DDC9;
 }
+.project {
+    padding: 5px 0px;
+}
