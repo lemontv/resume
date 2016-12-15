@@ -111,10 +111,10 @@ a:link, a:hover, a:active, a:visited {
         padding: 150px 20px 25px 20px;
     }
     #contact {
-        padding: 0;
+        padding: 0 15px;
         position: absolute;
         top: 40px;
-        left: 150px;
+        left: 125px;
     }
     #content-left .title {
         direction: ltr;
