@@ -53,8 +53,8 @@ a:link, a:hover, a:active, a:visited {
     border: 2px dashed #8DBC94;
     content: '';
     position: absolute;
-    top: 5px;
-    left: 5px;
+    top: 4px;
+    left: 4px;
 }
 #contact {
     padding: 10px 0px 10px 245px;
@@ -87,6 +87,7 @@ a:link, a:hover, a:active, a:visited {
 }
 .item .header .date {
     background: #C6DDC9;
+    text-align: center;
 }
 .item .detail {
 }
@@ -95,4 +96,30 @@ a:link, a:hover, a:active, a:visited {
 }
 .project {
     padding: 5px 0px;
+}
+
+@media only screen and (max-device-width: 480px) {
+    #photo {
+        left: 25px;
+        height: 100px;
+        width: 100px;
+    }
+    #photo:after {
+        padding: 44px;
+    }
+    #summary {
+        padding: 150px 20px 25px 20px;
+    }
+    #contact {
+        padding: 0;
+        position: absolute;
+        top: 40px;
+        left: 150px;
+    }
+    #content-left .title {
+        direction: ltr;
+    }
+    ul {
+        -webkit-padding-start: 20px;
+    }
 }
