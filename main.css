@@ -95,7 +95,7 @@ a:link, a:hover, a:active, a:visited {
     background: #C6DDC9;
 }
 .project {
-    padding: 5px 0px;
+    padding-top: 10px;
 }
 
 @media only screen and (max-device-width: 480px) {
