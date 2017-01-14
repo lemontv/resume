@@ -53,6 +53,16 @@
                         "Develop Fraudynamics Client Javascript SDK.",
                         "Cooperate with data analysis team improve our product."
                     ]
+                },
+                {
+                    "name": "Ressac, Montreal",
+                    "start": "2017",
+                    "end": "2017",
+                    "url": "http://ressacmedia.com/en",
+                    "multiple": true,
+                    "detail": [
+                      "Using React + Redux build Feedality. Font-End page."
+                    ]
                 }
             ]
         }
